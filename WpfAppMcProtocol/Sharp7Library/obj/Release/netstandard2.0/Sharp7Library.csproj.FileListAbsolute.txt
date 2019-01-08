@@ -1,0 +1,8 @@
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\Sharp7Library\bin\Release\netstandard2.0\Sharp7Library.deps.json
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\Sharp7Library\bin\Release\netstandard2.0\Sharp7Library.dll
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\Sharp7Library\bin\Release\netstandard2.0\Sharp7Library.pdb
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\Sharp7Library\obj\Release\netstandard2.0\Sharp7Library.csproj.CoreCompileInputs.cache
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\Sharp7Library\obj\Release\netstandard2.0\Sharp7Library.AssemblyInfoInputs.cache
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\Sharp7Library\obj\Release\netstandard2.0\Sharp7Library.AssemblyInfo.cs
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\Sharp7Library\obj\Release\netstandard2.0\Sharp7Library.dll
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\Sharp7Library\obj\Release\netstandard2.0\Sharp7Library.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Downloads\Simple-HMI-with-WPF-master\Sharp7Library\Sharp7Library.csproj" />
+    <ProjectReference Include="..\..\McProtocol\McProtocol.csproj" />
+  </ItemGroup>
+
+</Project>

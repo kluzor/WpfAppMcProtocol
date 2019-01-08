@@ -1,0 +1,24 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WpfAppMcProtocol.CustomButtons">
+
+    <!--Ustawiamy klucz (to na jego podstawie będziemy korzystać z określonego stylu, oraz typu elementu docelowego dla jakiego może być aplikowany ten styl).
+    Jeśli nie określilibyśmy klucza, to zostałby on automatycznie zastosowany do wszystkich elementów typu Button.
+    Możemy takie coś zastosować gdy chcemy wystylizować określony element w wybrany przez nas sposób w całej aplikacji.
+    -->
+    <Style x:Key="CustomButtonStyle" TargetType="Button">
+        <Setter Property="BorderBrush" Value="AliceBlue" />
+        <Setter Property="Background" Value="#EEE" />
+        <Setter Property="Padding" Value="5" />
+        <Style.Resources>
+            <Style TargetType="Image">
+                <Setter Property="Width" Value="24" />
+                <Setter Property="Height" Value="24" />
+                <Setter Property="Margin" Value="0,0,4,0" />
+            </Style>
+            <Style TargetType="TextBlock">
+                <Setter Property="VerticalAlignment" Value="Center" />
+            </Style>
+        </Style.Resources>
+    </Style>
+</ResourceDictionary>

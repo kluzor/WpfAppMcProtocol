@@ -1,0 +1,12 @@
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\WpfAppMcProtocol.csprojAssemblyReference.cache
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\CustomButtons\MenuUserControl.baml
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\Views\LoginWindow.baml
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\Views\MainWindow.baml
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\App.baml
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\CustomButtons\MenuUserControl.g.cs
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\Views\LoginWindow.g.cs
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\Views\MainWindow.g.cs
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\App.g.cs
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\WpfAppMcProtocol_MarkupCompile.cache
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\WpfAppMcProtocol_MarkupCompile.lref
+C:\Users\kuchap\Desktop\Aplikacje\WpfAppMcProtocol\WpfAppMcProtocol\obj\Release\WpfAppMcProtocol.exe.config
